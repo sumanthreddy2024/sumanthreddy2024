@@ -1,7 +1,3 @@
-Sure, here's a refreshed version of your GitHub bio with new keywords and emojis:
-
----
-
 👋 Hi there, I'm **Boyalla Sumanth Reddy**!
 
 🔍 Enthusiastic about continuous learning and research.
